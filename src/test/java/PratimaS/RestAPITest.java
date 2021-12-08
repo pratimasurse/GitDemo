@@ -14,6 +14,9 @@ public class RestAPITest {
 		
 
 		System.out.println("BrowserAutomation 3");
+		
+		System.out.println("BrowserAutomation 4");
+
 	
 	}
 	
