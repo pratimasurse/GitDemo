@@ -9,6 +9,11 @@ public class RestAPITest {
 	public void browserAutomation() {
 		
 		System.out.println("BrowserAutomation");
+
+		System.out.println("BrowserAutomation 2");
+		
+
+		System.out.println("BrowserAutomation 3");
 	
 	}
 	
